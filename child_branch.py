@@ -1,2 +1,2 @@
 # child_branch test
-print("child branch")
+print("revised child branch")
